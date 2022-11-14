@@ -1,0 +1,48 @@
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\bin\Debug\projet mastermind.exe.config
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\bin\Debug\projet mastermind.exe
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\bin\Debug\projet mastermind.pdb
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\bin\Debug\projet mastermind.xml
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form1.resources
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Resources.resources
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet mastermind.vbproj.GenerateResource.Cache
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet mastermind.exe
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet mastermind.xml
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet mastermind.pdb
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form2.resources
+C:\Users\mohamed bouchra\Documents\Visual Studio 2013\Projects\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form3.resources
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\bin\Debug\projet mastermind.exe.config
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet mastermind.exe
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet mastermind.xml
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet mastermind.pdb
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\bin\Debug\projet mastermind.exe
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\bin\Debug\projet mastermind.pdb
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\bin\Debug\projet mastermind.xml
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form1.resources
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form2.resources
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form3.resources
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Resources.resources
+C:\Users\simo\Desktop\projet mastermind\projet mastermind\obj\Debug\projet mastermind.vbproj.GenerateResource.Cache
+E:\projet mastermind\projet mastermind\bin\Debug\projet mastermind.exe.config
+E:\projet mastermind\projet mastermind\obj\Debug\projet mastermind.exe
+E:\projet mastermind\projet mastermind\obj\Debug\projet mastermind.xml
+E:\projet mastermind\projet mastermind\obj\Debug\projet mastermind.pdb
+E:\projet mastermind\projet mastermind\bin\Debug\projet mastermind.exe
+E:\projet mastermind\projet mastermind\bin\Debug\projet mastermind.pdb
+E:\projet mastermind\projet mastermind\bin\Debug\projet mastermind.xml
+E:\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form1.resources
+E:\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form2.resources
+E:\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Form3.resources
+E:\projet mastermind\projet mastermind\obj\Debug\projet_mastermind.Resources.resources
+E:\projet mastermind\projet mastermind\obj\Debug\projet mastermind.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\bin\Debug\projet mastermind.exe.config
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet mastermind.exe
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet mastermind.xml
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet mastermind.pdb
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\bin\Debug\projet mastermind.exe
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\bin\Debug\projet mastermind.pdb
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\bin\Debug\projet mastermind.xml
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet_mastermind.Form1.resources
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet_mastermind.Form2.resources
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet_mastermind.Form3.resources
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet_mastermind.Resources.resources
+C:\Users\LENOVO\Desktop\SIMO\projet mastermind\obj\Debug\projet mastermind.vbproj.GenerateResource.Cache
